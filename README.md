@@ -1,1 +1,1 @@
-# **Bold** Harsh's Cloud SOC LAB
+# **Harsh's Cloud SOC LAB**
